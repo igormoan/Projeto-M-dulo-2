@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #F2F2F2;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 64px 164px 54px 80px;
+}
+
+
+header img {
+    width: 60px;
+    height: 32px;
+}
+
+header ul {
+    font-family: "Public Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    list-style: none;
+    display: flex;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #33323D;
+    margin: 0 25px;
+    letter-spacing: 2px;
+}
+
+.container-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pagina-de-momento-button-verde {
+    color: #5FB4A2
+}
+
+.hero-section {
+    position: relative;
+}
+
+.container-hero img {
+    width: 1210px;
+    height: 600px;
+}
+
+.caixa-de-texto {
+    background-color: #FAFAFA;
+    position: absolute;
+    top: 0;
+    margin-top: 243px;
+    width: 435px;
+    height: 357px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.caixa-de-texto p {
+    color: #33323D;
+    font-family: "Ibarra Real Nova", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    margin: 54px 28px;
+}
+
+.button-sobre-mim {
+    position: relative;
+    background-color: #203A4C;
+    border: none;
+    height: 48px;
+    width: 200px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.button-sobre-mim:hover {
+    background-color: #5FB4A2;
+}
+
+.background {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 16px;
+    height: 12px;
+    left: 16px;
+    top: 18px;
+}
+
+.background img {
+    width: 16px;
+    height: 12px;
+
+}
+
+.button-sobre-mim a {
+    font-family: "Public Sans", sans-serif;
+    font-size: 12px;
+    width: 152px;
+    height: 14px;
+    top: 17px;
+    left: 48px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+
+.foto-perfil {
+    display: flex;
+    margin-left: 70px;
+}
+
+
+.container-sobre-mim img {
+    margin-top: 149px;
+    width: 540px;
+    height: 600px;
+}
+
+.texto-de-apresentação {
+    width: 430px;
+    height: 601px;
+    margin: 149px 165px 0 140px;
+    border-top: 2px solid rgba(50, 51, 61, 0.15);
+    border-bottom: 2px solid rgba(50, 51, 61, 0.15);
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+
+.texto-de-apresentação h2 {
+    font-family: "Ibarra Real Nova", sans-serif;
+    letter-spacing: -0.357143px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #33323D;
+    margin-top: 30px;
+}
+
+
+.texto-de-apresentação p {
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    opacity: 0.8;
+    margin: 0;
+}
+
+.button-portfolio {
+
+    all: unset;
+    height: 48px;
+    width: 204px;
+    color: #33323D;
+    border: solid 1px #33323D;
+    text-align: center;
+    margin-left: 113px;
+    cursor: pointer;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.container-contato {
+    margin: 150px 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1110px;
+    font-family: "Ibarra Real Nova", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -0.357143px;
+}
+
+
+.contact-button {
+    all: unset;
+    font-family: "Public Sans", sans-serif;
+    color: #33323D;
+    border: solid 1px #33323D;
+    padding: 17px 28px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.contact-button:hover {
+    background-color: #33323D;
+    color: #FAFAFA;
+}
+
+.container-rodapé {
+    background-color: #33323D;
+
+    width: 1440px;
+    height: 80px;
+    display: flex;
+    gap: 50px;
+}
+
+.logo-light img {
+    margin-top: 24px;
+    margin-left: 80px;
+    width: 60px;
+    height: 32px;
+}
+
+.container-rodapé ul {
+    margin-top: 40px;
+    margin-right: 420px;
+    font-family: "Public Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    list-style: none;
+    display: flex;
+
+}
+
+.container-rodapé ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    margin: 0 25px;
+    letter-spacing: 2px;
+    width: 100px;
+    height: 14px;
+
+}
+
+.ícones img {
+
+    height: 24px;
+    margin-left: 39px;
+    margin-top: 28px;
+    cursor: pointer;
+
+}
