@@ -1,7 +1,8 @@
 # PROJETO | Front-end 
 
 
-<p> O projeto consiste em replicar o layout do Figma, com o uso do HTML e CSS, respeitando as estruturas do conteúdo e aplicando os estilos para que o site seja funcional, com uma fácil navegação e visualmente atraente. Para inicar a navegação do site e percorrer todas as páginas é só executar o arquivo index.html</p>
+<p> O projeto consiste em replicar o layout do Figma, com o uso do HTML e CSS, respeitando as estruturas do conteúdo e aplicando os estilos para que o site seja funcional, com uma fácil navegação e visualmente atraente. Para inicar a navegação do site e percorrer todas as páginas é só executar o arquivo index.html
+<br><i>Obs: O elemento obrigatório era a página Home</i><br></p>
 
 #
 
