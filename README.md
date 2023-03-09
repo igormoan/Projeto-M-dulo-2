@@ -1,21 +1,19 @@
-![](https://i.imgur.com/xG74tOh.png)
+# PROJETO | Front-end 
 
-# Desafio | Front-end - Módulo 2
 
-O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
+<p> O projeto consiste em replicar o layout do Figma, com o uso do HTML e CSS, respeitando as estruturas do conteúdo e aplicando os estilos para que o site seja funcional, com uma fácil navegação e visualmente atraente. Para inicar a navegação do site e percorrer todas as páginas é só executar o arquivo index.html</p>
 
-## Páginas obrigatórias
+#
 
 - [Home](#Home)
-
-## Páginas opcionais
-
 - [Portfolio](#Portfolio)
 - [Portfolio - 01 - Manage](#Portfolio---01---Manage)
 - [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
 - [Portfolio - 03 - Insure](#Portfolio---03---Insure)
 - [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
 - [Contato](#Contato)
+
+#
 
 ### Home
 
@@ -139,8 +137,3 @@ Seções
 - Contato Section ![](https://i.imgur.com/VvO2m7w.png)
 
 - Footer ![](https://i.imgur.com/P06m37L.png)
-
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
-
-###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
